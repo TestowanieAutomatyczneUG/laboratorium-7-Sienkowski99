@@ -1,5 +1,8 @@
 # A sample Python project
 
+[![Coverage Status](https://coveralls.io/repos/github/TestowanieAutomatyczneUG/laboratorium-7-Sienkowski99/badge.svg?branch=master)](https://coveralls.io/github/TestowanieAutomatyczneUG/laboratorium-7-Sienkowski99?branch=master)
+
+
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png "Sample inline image")
 
 A sample project that exists as an aid to the [Python Packaging User
